@@ -1,5 +1,4 @@
 # HugoSjoedin.github.io
 Uppsala University Hanzi practice website
 
-
-JA ja ja ja ja
+Go to: https://hugosjoedin.github.io/ to play
